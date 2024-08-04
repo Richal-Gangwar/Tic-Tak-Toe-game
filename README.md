@@ -1,5 +1,5 @@
 # Tic-Tak-Toe-game
-This is a simple Tic-Tac-Toe game built using React . It's a classic two-player game.
+This is a realtime Tic-Tac-Toe game built using React . It's a classic two-player game.
 
 <h1>Abstract</h2>
 This is a real-time tic tac toe game, in which two players can play against each other over a network, and unlimited users can watch the game. The game consist of a server (node.js application) and client (javascript application)
